@@ -190,7 +190,7 @@ h1 {
   font-weight:500;
 }
 .aescle-mark img {
-  filter:brightness(0) invert(1);
+  border-radius:6px;
   height:30px;
   width:30px;
 }
